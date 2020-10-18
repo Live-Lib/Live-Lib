@@ -3,6 +3,7 @@
 #ifndef LIVE_HPP
 #define LIVE_HPP
 #include <string>
+#include <iostream>
 
 #ifdef __cplusplus
 extern "C"
